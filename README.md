@@ -1,2 +1,2 @@
-# hobberlobbe_displayer
-Displays hobberlobbe
+# D&D Extended
+Displays hobberlobbe.
